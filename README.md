@@ -4,7 +4,7 @@ Responsive, accessible sidebar navigation built with Vite + React 19.
 
 ## Prerequisites
 
-- Node.js 18+
+- Node.js 20+
 - npm (or yarn / pnpm)
 
 ## Quick Start
