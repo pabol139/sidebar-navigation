@@ -9,19 +9,19 @@ Responsive, accessible sidebar navigation built with Vite + React 19.
 
 ## Quick Start
 
-# 1. Clone the repo
+ 1. Clone the repo
 
-# 2. Install dependencies
+ 2. Install dependencies
 npm install
-# or
-# yarn
-# or
-# pnpm install
+ or
+ yarn
+ or
+ pnpm install
 
-# 3. Start the dev server
+ 3. Start the dev server
 npm run dev
 
-# 4. Open the dev URL shown in the terminal (usually http://localhost:5173)
+ 4. Open the dev URL shown in the terminal (usually http://localhost:5173)
 
 
 ## Libraries
