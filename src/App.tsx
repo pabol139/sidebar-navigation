@@ -24,7 +24,7 @@ function App() {
 
   return (
     <>
-      <header className="h-10 p-4">
+      <header className="h-[var(--header-height)] p-4">
         <button
           onClick={handleOpen}
           className="md:hidden relative after:content-[''] after:-inset-3 after:absolute"
@@ -37,7 +37,7 @@ function App() {
         isDesktop={isDesktop}
         handleClose={handleClose}
       />
-      <main className="flex items-center justify-center md:ml-[var(--sidebar-width)] h-[calc(100dvh-40px)]">
+      <main className="flex items-center justify-center md:ml-sidebar h-[calc(100dvh-var(--header-height))]">
         <h1 className="text-white">Main Content</h1>
       </main>
     </>

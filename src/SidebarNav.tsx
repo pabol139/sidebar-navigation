@@ -79,9 +79,9 @@ export default function SidebarNav({
         }}
         role={!isDesktop ? "dialog" : undefined}
         aria-modal={!isDesktop ? true : undefined}
-        className="fixed left-0 top-0 max-w-80 md:max-w-[revert] w-[var(--sidebar-width)] bg-[var(--sidebar-background)] z-20 text-[var(--sidebar-text)] h-dvh"
+        className="fixed left-0 top-0 max-w-80 md:max-w-[revert] w-sidebar bg-sidebar-background z-20 text-sidebar-text h-dvh"
       >
-        <nav className=" flex flex-col justify-between  border-r border-r-[var(--border)] h-full ">
+        <nav className="flex flex-col justify-between h-full border-r  border-r-sidebar-border">
           <div className="flex-1 px-6 py-6 pb-2 space-y-6 overflow-auto ">
             <div className="flex items-center justify-between gap-1">
               <svg

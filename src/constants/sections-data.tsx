@@ -19,25 +19,25 @@ export const SECTIONS_DATA = [
     items: [
       {
         text: "For Students",
-        url: "",
+        url: "/",
         icon: Hat,
         iconColor: "#fa0",
       },
       {
         text: "For Expats",
-        url: "",
+        url: "/",
         icon: Globe,
         iconColor: "#ff6a00",
       },
       {
         text: "For Couples",
-        url: "",
+        url: "/",
         icon: Hearts,
         iconColor: "#f05",
       },
       {
         text: "For Parent",
-        url: "",
+        url: "/",
         icon: Parents,
         iconColor: "#bf00ff",
       },
@@ -48,31 +48,31 @@ export const SECTIONS_DATA = [
     items: [
       {
         text: "bunq Free",
-        url: "",
+        url: "/",
         icon: Diamond,
         iconColor: "#00bfff",
       },
       {
         text: "bunq Core",
-        url: "",
+        url: "/",
         icon: DiamondShinySmall,
         iconColor: "#00ffd5",
       },
       {
         text: "bunq Pro",
-        url: "",
+        url: "/",
         icon: DiamondShinyMedium,
         iconColor: "#0080ff",
       },
       {
         text: "bunq Elite",
-        url: "",
+        url: "/",
         icon: DiamondShinyLarge,
         iconColor: "#f0a",
       },
       {
         text: "Compare Plans",
-        url: "",
+        url: "/",
         icon: Checks,
         iconColor: "#40bf4a",
       },
@@ -83,31 +83,31 @@ export const SECTIONS_DATA = [
     items: [
       {
         text: "About Us",
-        url: "",
+        url: "/",
         icon: Rocket,
         iconColor: "#fa0",
       },
       {
         text: "Sustainability",
-        url: "",
+        url: "/",
         icon: Tree,
         iconColor: "#ff6a00",
       },
       {
         text: "Security",
-        url: "",
+        url: "/",
         icon: Security,
         iconColor: "#f05",
       },
       {
         text: "Press",
-        url: "",
+        url: "/",
         icon: Press,
         iconColor: "#f0a",
       },
       {
         text: "Jobs",
-        url: "",
+        url: "/",
         icon: Jobs,
         iconColor: "#bf00ff",
       },
